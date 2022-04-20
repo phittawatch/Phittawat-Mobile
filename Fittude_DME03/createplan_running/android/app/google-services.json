@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111888080990",
+    "project_id": "fittude-dme",
+    "storage_bucket": "fittude-dme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111888080990:android:f7e53bdb421d373e5d94cf",
+        "android_client_info": {
+          "package_name": "com.example.createplan_running"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111888080990-1hi1giqs18ku3398vkcgu4lj7t765260.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXf4eiLVPySjrp1N4sCd8TdxpmmYaZdxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111888080990-1hi1giqs18ku3398vkcgu4lj7t765260.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
